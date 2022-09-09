@@ -1,0 +1,30 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@1,300&display=swap');
+body
+{
+    background-color: #2c3333;
+    text-align: center;
+}
+.player,.p1,.p2,.winner{
+    color: white;
+    font-family: 'Comic Neue', cursive;
+}
+.roll {
+    background-color: #8ff3cf;
+    color: white;
+    border: none;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+
+/* .p1{
+    color:white
+}
+.p2{
+    color:white
+}
+
+.winner{
+    color:white
+} */
